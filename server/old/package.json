@@ -30,7 +30,7 @@
     "coffee-script"	:  "*",
     "node-static"		:  "0.6.9",
     "socket.io"			:  "0.9.14",
-    "validator"			:  "1.1.1"
+    "validator"			:  "13.6.0"
   },
   "license": "LGPL",
   "engines": {
